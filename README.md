@@ -9,6 +9,7 @@
 <body>
     <h1>Welcome to my GitHub Page!</h1>
     <p>This is a simple website hosted on GitHub Pages.</p>
+    <p>i dont know if this works?.</p>
     <script src="script.js"></script>
 </body>
 </html>
